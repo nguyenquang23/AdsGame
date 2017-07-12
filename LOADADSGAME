@@ -1,0 +1,15 @@
+{
+  "PIRATES": {
+    "admod": {
+      "setting": {
+        "countdie": "3",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/6520738142",
+        "fullbanner": "ca-app-pub-6212138848197070/7997471347",
+        "bannervideo": "ca-app-pub-6212138848197070/9474204540"
+      }
+    }
+  }
+}
